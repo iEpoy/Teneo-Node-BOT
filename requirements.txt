@@ -1,0 +1,4 @@
+aiohttp
+websockets
+keyboard
+rich
