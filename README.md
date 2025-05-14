@@ -1,2 +1,2 @@
-# Traneo-Node-BOT
-Traneo Node BOT
+# Teneo-Node-BOT
+Teneo Node BOT
